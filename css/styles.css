@@ -1,0 +1,41 @@
+
+#search {
+    margin: 10px 20px;
+    padding: 5px 10px;
+    border: 2px;
+    height: 30px;
+    width: 130px;
+    background-color: whitesmoke;
+    border-color: rgb(29, 146, 134);
+    border-style: solid;
+    color: rgb(29, 146, 134);
+    border-radius: 20px;
+    font-size: 14px;
+
+}
+.circulo{
+
+    margin: 10px 20px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 0px;
+    background-color: rgb(77, 226, 176);
+    border-style: solid;
+    border-color: aquamarine;
+    color: white;
+    font-size: 14px;
+ 
+}
+.account{
+    margin: 10px 20px;
+    height: 30px;
+    width: 160px;
+    border-radius: 0%;
+    border: 2px;
+    border-style: solid;
+    background-color: royalblue;
+    border-color: black;
+    color: white;
+    box-shadow: 2px 4px black;
+}
